@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/knightnemo">Siqiao Huang</a> (KnightNemo)</h1>
-<h3 align="center">A undergraduate student from China <img src="https://profile-counter.glitch.me/knightnemo/count.svg" alt="Visitor Count" /></h3> 
+<h3 align="center">A cool dude from China <img src="https://profile-counter.glitch.me/knightnemo/count.svg" alt="Visitor Count" /></h3> 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=knightnemo&show_icons=true&theme=radical" alt="knightnemo's GitHub Stats" />
-</p>
+![snake](https://raw.githubusercontent.com/knightnemo/knightnemo/output/github-contribution-grid-snake.svg)
 
 - 📘 I'm currently a Undergraduate student (from 2023 Fall) in [IIIS (Yao Class)](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/),persuing a Bachelor's degree in Computer Science.
 - ✨ I'm interested in deep learning, generative models and reinforcement learning.
