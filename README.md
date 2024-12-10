@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/knightnemo">Siqiao Huang</a> (KnightNemo)</h1>
-<h3 align="center">A cool dude from China <img src="https://profile-counter.glitch.me/knightnemo/count.svg" alt="Visitor Count" /></h3> 
+<h3 align="center">A Cool Dude from China <img src="https://profile-counter.glitch.me/knightnemo/count.svg" alt="Visitor Count" /></h3> 
 
 ![snake](https://raw.githubusercontent.com/knightnemo/knightnemo/output/github-contribution-grid-snake.svg)
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🏀 I'm also really into sports, especially basketball and running. I'm a member of the IIIS basketball team and a huge fan of the [Golden State Warriors](https://www.nba.com/warriors/).
 - 📝 My favorite motto is *Carpe diem* (Latin, 活在当下 in Chinese).
 - [🍏](https://www.youtube.com/watch?v=-z4NS2zdrZc) I'm an idealist and one who is crazy enough to think he can change the world.
+- 🐶 I'm love animals (especially dogs). My parents and I raised three lovely Poodles.
 
 
 <h3 align="left">Languages and Tools:</h3>
