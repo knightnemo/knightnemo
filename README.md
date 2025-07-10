@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://knightnemo.github.io">Siqiao Huang</a> (KnightNemo)</h1>
-<h3 align="center">A Cool Dude from China <img src="https://profile-counter.glitch.me/knightnemo/count.svg" alt="Visitor Count" /></h3> 
+<h3 align="center">A Cool Dude from China</h3> 
 
 ![snake](https://raw.githubusercontent.com/knightnemo/knightnemo/output/github-contribution-grid-snake.svg)
 
