@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=knightnemo&column=8&row=1)](https://github.com/knightnemo)
+[![trophy](https://github-trophies.devomb.com/?username=knightnemo&column=8&row=1)](https://github.com/knightnemo)
 
 </div>
